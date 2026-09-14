@@ -1,4 +1,5 @@
 import Hero from "@/components/hero";
+import Projects from "@/components/projects";
 import Navbar from "@/components/Upperbar";
 
 export default function Home(){
@@ -11,6 +12,7 @@ style={{
     >
       <Navbar/>
       <Hero/>
+      <Projects/>
     </div>
   )
 }
