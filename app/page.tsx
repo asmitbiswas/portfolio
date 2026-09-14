@@ -1,3 +1,4 @@
+import Hero from "@/components/hero";
 import Navbar from "@/components/Upperbar";
 
 export default function Home(){
@@ -9,6 +10,7 @@ style={{
 }}
     >
       <Navbar/>
+      <Hero/>
     </div>
   )
 }
