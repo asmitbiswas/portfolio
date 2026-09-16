@@ -329,7 +329,7 @@ export default function Home() {
             <div>
               <Info label="♙" title="Name" value="Asmit" />
               <Info label="⌖" title="Location" value="India" />
-              <Info label="✉" title="Email" value="yourname@email.com" />
+              <Info label="✉" title="Email" value="asmitbiswas1308@email.com" />
               <Info label="♧" title="Education" value="Student / Self Learner" />
             </div>
 
@@ -543,7 +543,7 @@ export default function Home() {
             <div style={{ fontSize: 12, color: dark ? "#a9b7b8" : "#546a6c" }}>
               Have a project in mind or just want
               <br />
-              to say hi? I’d love to hear from you.
+              to say hi? I'd love to hear from you.
             </div>
           </div>
 
